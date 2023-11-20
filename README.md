@@ -26,7 +26,7 @@
    - Fixing to certain notes
    - Keyboards from 1700s to date
    - Aesthetics & progress demanded these "fetters"
-   - It is what "freed" music to modulate into any key
+   - It is what "[freed](https://www.youtube.com/watch?v=8fHi36dvTdE)" music to modulate into any key
    - Dancing within these fetters become the ultiamte driving force 
      
 4. Qualities
