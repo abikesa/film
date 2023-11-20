@@ -25,7 +25,7 @@
    - `Tempering` harmonic series
    - Fixing to certain notes
    - Keyboards from 1700s to date
-   - Aesthetics & progress demanded these "fetters"
+   - Aesthetics & progress demanded these "[fetters](https://en.wikipedia.org/wiki/Musical_temperament)"
    - It is what "[freed](https://www.youtube.com/watch?v=8fHi36dvTdE)" music to modulate into any key
    - Dancing within these fetters become the ultiamte driving force 
      
