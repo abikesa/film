@@ -19,6 +19,22 @@
                               4. Qualities
 ```
 
+1. Genre
+2. History
+3. Mode
+   - `Tempering` harmonic series
+   - Fixing to certain notes
+   - Keyboards from 1700s to date
+   - Aesthetics & progress demanded these "fetters"
+   - It is what "freed" music to modulate into any key
+   - Dancing within these fetters become the ultiamte driving force 
+     
+4. Qualities
+5. Voicing
+6. Pocket
+   - Wrapped up, tangled up
+   - This one thing!
+
 ### Film
 
 ```
