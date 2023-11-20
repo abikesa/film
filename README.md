@@ -28,3 +28,10 @@
                                 /
                                  4. Relaxed
 ```
+
+1. A serious Man
+2. Commando/Rambo
+3. Jet Li
+4. The Dude
+5. Succession
+6. Jobs
