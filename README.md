@@ -24,7 +24,7 @@
 3. Mode
    - `Tempering` harmonic series
      - Bernstein equates this to the periodic table of chemistry
-     - One can see the future of the science and even predict its qualities" [50:38](https://github.com/abikesa/film/edit/main/README.md)/1:45:37
+     - One can see the future of the science and even predict its qualities: [50:38](https://github.com/abikesa/film/edit/main/README.md)/1:45:37
    - Fixing to certain notes
    - Keyboards from 1700s to date
    - Aesthetics & progress demanded these "[fetters](https://en.wikipedia.org/wiki/Musical_temperament)"
