@@ -32,13 +32,13 @@
          - Vengeance: An Auteur against his biological father & mother in Kill Bill (retro-fantasy, rewritting the past)
          - Dionysus: Irreverence within a hierarchical organization as we see with Alexander McQueen in [Bullitt](https://en.wikipedia.org/wiki/Bullitt) and "New" Hollywood
       - Neighbor
-         - Good
+         - Good/Classical
             - Conscious: Spike Lee
             - And most of "classic" Hollywood, including those in the Pantheon 
-         - Bad
+         - Bad/Romantic
             - The Good, the Bad and the Ugly
             - Sergio, European (German & Italian) "Westerns" 
-         - Ugly
+         - Ugly/Psychopath/Modern/Übermensch
             - War
             - Hollocaust
             - Genocide: Hotel Rwanda  
