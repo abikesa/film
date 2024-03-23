@@ -9,6 +9,9 @@
 ### Black/Encode
    1. Root
       - Mental Illness
+         - A mere symptom of physical inactivity & modernity 
+      - Nietzsche: As the physical habitus declines with frailty, the metaphysical surges with contemplation of what remains after
+         - The "Soul" 
    2. Pentatonic
       - Incidence/prevalence of depression, bipolar, schizophrenia across [all cultures & times of history](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1282254/)
 ### White/Code
