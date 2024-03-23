@@ -24,7 +24,7 @@
       - And so with the tension of our bow, an arrow in hand, we just might be able to shoot for the most distant goals
 ### Fab/Decode
    5. Temperament
-      - High-priests, Rabbis, Oracles, Dieticians, Ascetic-priests, Hibernation
+      - High-priests, Rabbis, Oracles, Dieticians, Ascetic-priests, Hibernation, Coen Brothers
    6. Expression
       - Self
          - Vengeance: An Auteur against his biological father & mother in Kill Bill (retro-fantasy, rewritting the past)
