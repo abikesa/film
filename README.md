@@ -8,26 +8,26 @@
 
 ### Black/Encode
    1. Root
-      - Mental Illness
+      - Mental Illness (`static`)
          - A mere symptom of physical inactivity & modernity 
       - Nietzsche: As the physical habitus declines with frailty, the metaphysical surges with contemplation of what remains after
          - The "Soul", Genius as "Hope", And Many other Funny Stuff
          - With infinite space-time, thanks to Einstein's insights, there's neither a beginning nor an end
          - And that should be both very comforting and existentially flabbergasting
-   2. Pentatonic
+   2. Pentatonic (`censorship`)
       - Incidence/prevalence of depression, bipolar, schizophrenia across [all cultures & times of history](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1282254/)
 ### White/Code
-   3. Diatonic
+   3. Diatonic (`information`)
       - Plato's (or any Credo's) ecclesiastic oppression, `within good & evil`, and thus creating a tension like the world has never seen before
          - We shall always have Paris
          - `Rosebud`
          - [Xanadu](https://en.wikipedia.org/wiki/Kubla_Khan)
-   4. Chromatic
+   4. Chromatic (`music`)
       - And so with the tension of our bow, an arrow in hand, we just might be able to shoot for the most distant goals
 ### Fab/Decode
-   5. Temperament
+   5. Temperament (`genre`)
       - High-priests, Rabbis, Oracles, Dieticians, Ascetic-priests, Hibernation, Coen Brothers
-   6. Expression
+   6. Expression (`hierarchy`)
       - Self
          - Vengeance: An Auteur against his biological father & mother in Kill Bill (retro-fantasy, rewritting the past)
          - Dionysus: Irreverence within a hierarchical organization as we see with Alexander McQueen in [Bullitt](https://en.wikipedia.org/wiki/Bullitt) and "New" Hollywood
