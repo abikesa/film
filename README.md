@@ -11,12 +11,14 @@
       - Mental Illness
          - A mere symptom of physical inactivity & modernity 
       - Nietzsche: As the physical habitus declines with frailty, the metaphysical surges with contemplation of what remains after
-         - The "Soul" 
+         - The "Soul", Genius as "Hope", And Many other Funny Stuff
+         - With infinite space-time, thanks to Einstein's insights, there's neither a beginning nor an end
+         - And that should be both very comforting and existentially flabbergasting
    2. Pentatonic
       - Incidence/prevalence of depression, bipolar, schizophrenia across [all cultures & times of history](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1282254/)
 ### White/Code
    3. Diatonic
-      - Plato's ecclesiastic oppression, `within good & evil`, and thus creating a tension like the world has never seen before
+      - Plato's (or any Credo's) ecclesiastic oppression, `within good & evil`, and thus creating a tension like the world has never seen before
          - We shall always have Paris
          - `Rosebud`
          - [Xanadu](https://en.wikipedia.org/wiki/Kubla_Khan)
