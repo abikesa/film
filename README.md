@@ -1,55 +1,30 @@
-### Metaphysics
-
-```
-   1. Physics vs. Metaphysics
+ 
+                      1. Root 
                              \
-        3. Epistemiology ->  2. Identity -> 5. Time -> 6. Change
+           2. Pentatonic ->  4. Chromatic -> 5. Temperament -> 6. Expression
                              /
-                              4. Ontology
-```
-
-### Tragedy
+                             3. Diatonic
 
 
-```
-                     1. Genre
-                             \
-                  3. Mode ->  2. History -> 5. Voicing -> 6. Pocket
-                             /
-                              4. Qualities
-```
-
-1. Genre
-2. History
-3. Mode
-   - `Tempering` harmonic series
-     - Bernstein equates this to the periodic table of chemistry
-     - One can see the future of the science and even predict its qualities: [50:38](https://github.com/abikesa/film/edit/main/README.md)/1:45:37
-   - Fixing to certain notes
-   - Keyboards from 1700s to date
-   - Aesthetics & progress demanded these "[fetters](https://en.wikipedia.org/wiki/Musical_temperament)"
-   - It is what "[freed](https://www.youtube.com/watch?v=8fHi36dvTdE)" music to modulate into any key
-   - Dancing within these fetters become the ultiamte driving force 
-     
-4. Qualities
-5. Voicing
-6. Pocket
-   - Wrapped up, tangled up
-   - This one thing!
-
-### Film
-
-```
-                     1. Worried
-                                \
-                   3. Skill ->  2. Flow -> 5. Control -> 6. Tool
-                                /
-                                 4. Relaxed
-```
-
-1. A serious Man
-2. Commando/Rambo
-3. Jet Li
-4. The Dude
-5. Succession
-6. Jobs
+### Black/Encode
+   1. Root
+      - Mental Illness
+   2. Pentatonic
+      - Incidence/prevalence of depression, bipolar, schizophrenia across [all cultures & times of history](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1282254/)
+### White/Code
+   3. Diatonic
+      - Plato's ecclesiastic oppression, `within good & evil`, and thus creating a tension like the world has never seen before
+         - We shall always have Paris
+         - `Rosebud`
+         - [Xanadu](https://en.wikipedia.org/wiki/Kubla_Khan)
+   4. Chromatic
+      - And so with the tension of our bow, an arrow in hand, we just might be able to shoot for the most distant goals
+### Fab/Decode
+   5. Temperament
+      - High-priests, Rabbis, Oracles, Dieticians, Ascetic-priests, Hibernation
+   6. Expression
+      - Self
+      - Neighbor
+      - God
+         - Fantasy: [Casablanca](https://en.wikipedia.org/wiki/Casablanca_(film))
+         - Tragedy: [Kane](https://en.wikipedia.org/wiki/Citizen_Kane) 
